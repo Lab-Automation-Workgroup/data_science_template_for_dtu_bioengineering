@@ -25,6 +25,8 @@ This README.md is your project’s welcome page; it introduces your work at and 
 - **Improves reproducibility:** Standardized folders and file names make it easier to reproduce analysis and results.
 - **Facilitates automation:** Standard structures allow for the automation of data processing, testing, and deployment.
 
+**Small tip:** One of my favorite programmers on Youtube, called Arjan, talks about this in this [video](https://www.youtube.com/watch?v=xVuqDBCQAYc&t=386s). His channel is a great resource to learn more about python programming.
+
 ## Project Organization
 
 Below is a description/guide of a typical project folder structure and its contents:
