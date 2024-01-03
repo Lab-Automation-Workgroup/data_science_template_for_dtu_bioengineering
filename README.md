@@ -1,6 +1,14 @@
 # Template for DTU bioengineering
 
-This template is designed for bioengineering data science projects at the [DTU Bioengineering](https://www.bioengineering.dtu.dk/). It follows best practices for project organization, ensuring consistency and efficiency in data handling, analysis, and modeling.
+This template is designed for bioengineering data science projects at [DTU Bioengineering](https://www.bioengineering.dtu.dk/). It follows best practices for project organization, ensuring consistency and efficiency in data handling, analysis, and modeling.
+
+---
+
+**DISCLAIMER: This introduction and template is built from [Cookiecutter](https://github.com/drivendata/cookiecutter-data-science). If you are an experienced programmer and know GitHub, I recommend you check the link**
+
+---
+
+### First things first
 
 This README.md is your project’s welcome page; it introduces your work at and guides newcomers on how to dive in. Keep it updated with your project's goals and instructions, ensuring it's a clear, for collaborators (and yourself). Below you will find a best practices for how to make a good readme file.
 
@@ -100,7 +108,7 @@ Below is a description/guide of a typical project folder structure and its conte
   - Configuration file for tox, a tool for running tests in isolated environments. It ensures that the codebase works across multiple environments and Python versions.
 
 - **.gitignore**
-  - This file is the keeper of secrets for your project. It tells Git to ignore things like backup files, personal settings, and system files that don't help anyone else—like those pesky .DS_Store files Macs create. This way, your project stays clean and only shares what's truly useful.
+  - This file is the keeper of secrets for your project. It tells Git to ignore things like backup files, personal settings, and system files that don't help anyone else—like those annoying .DS_Store files Macs create. This way, your project stays clean and only shares what's truly useful.
 
 Each component of the project structure plays a role in ensuring that the workflow from data acquisition to modeling is as smooth and error-free as possible. By adhering to this structure, DTU Bioengineering researchers and collaborators can focus more on the research.
 
