@@ -8,6 +8,12 @@ This template is designed for bioengineering data science projects at [DTU Bioen
 
 ---
 
+### Assumptions for this guide
+
+- You are relatively new to Python
+- You have a strong cup of coffee
+- Words like Git, GitHub and datascience scare you.
+
 ### First things first
 
 This README.md is your project’s welcome page; it introduces your work at and guides newcomers on how to dive in. Keep it updated with your project's goals and instructions, ensuring it's a clear, for collaborators (and yourself). Below you will find a best practices for how to make a good readme file.
